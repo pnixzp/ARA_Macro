@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.023,=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Bourn.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.799,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Skill.dfm=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Profile.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.144,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\IOBound.dfm=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\IOBourn.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.827,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\ARA.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.799,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Skill.pas=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Profile.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.249,=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Skill.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.455,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\IOProfile.dfm=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Export.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.351,=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\State.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.036,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\State.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.692,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Zoom.dfm=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.793,=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\AraMain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.858,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Export.pas=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\ImExport.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.211,=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Sponsor.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.121,=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\IOBourn.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.834,=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.012,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Unit1.pas=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\About.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.692,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Zoom.pas=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.068,=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.144,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\IOBound.pas=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\IOBourn.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.595,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\IOBound.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.807,=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.858,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Export.dfm=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\ImExport.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.622,=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.099,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Bound.dfm=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Bourn.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.681,=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\IOProfile.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.098,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Bound.pas=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Bourn.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.012,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Unit1.dfm=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\About.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.455,C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\IOProfile.pas=C:\Users\ms7\Documents\Embarcadero\Studio\Projects\AraPlayer\ByJob\Export.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="AraMain.pas"/>
+    <File Path="AraMain.dfm"/>
+    <File Path="Profile.pas"/>
+    <File Path="Profile.dfm"/>
+    <File Path="Bound.pas"/>
+    <File Path="Bound.dfm"/>
+    <File Path="Zoom.pas"/>
+    <File Path="Zoom.dfm"/>
+    <File Path="ImExport.pas"/>
+    <File Path="ImExport.dfm"/>
+    <File Path="Sponsor.pas"/>
+    <File Path="Sponsor.dfm"/>
+    <File Path="About.pas"/>
+    <File Path="About.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

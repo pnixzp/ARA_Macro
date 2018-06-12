@@ -1,0 +1,31 @@
+object uSponsor: TuSponsor
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = 'Sponsor'
+  ClientHeight = 490
+  ClientWidth = 300
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDefault
+  OnHide = FormHide
+  OnHelp = FormHelp
+  PixelsPerInch = 96
+  TextHeight = 13
+  object ListBox1: TListBox
+    Left = 0
+    Top = 0
+    Width = 300
+    Height = 490
+    Align = alClient
+    ItemHeight = 13
+    TabOrder = 0
+    ExplicitHeight = 234
+  end
+end
